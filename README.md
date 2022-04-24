@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @nikola93n
+- 👋 Hi, I’m @nikola
 - 👀 I’m interested in HTML, CSS, JS, PHP, and WordPress.
-- 🌱 I’m currently learning WordPress custom theme development.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning WordPress custom theme development. 
 - 📫 How to reach me - https://nnweb.net/#contact
 
 <!---
